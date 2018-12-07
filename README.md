@@ -5,7 +5,7 @@
 > 阅读文档请到 👉  **https://www.ziiai.com/docs/pytorch**
 ---
 
-Pytorch 相关文章：[https://www.ziiai.com/topic/340](https://www.ziiai.com/topic/332)
+Pytorch 相关文章：[https://www.ziiai.com/topic/340](https://www.ziiai.com/topic/340)
 
 提问请到：[https://www.ziiai.com/question/ask](https://www.ziiai.com/question/ask)
 
